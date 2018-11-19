@@ -28,7 +28,9 @@ Using NLP to curate personalized lists of jobs for military spouses that are ran
 ### Sponsors
 <p align="center">
   <img src="data/techstars.png" width="150">
+  <img src="data/white_space.png">
   <img src="data/usaa.png" width="105">
+  <img src="data/white_space.png">
   <img src="data/patriotbootcamp.png" width="270">
 </p>
 
