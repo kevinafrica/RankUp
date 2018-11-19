@@ -1,4 +1,6 @@
-![RankUp](data/rankup.png)
+<p align="center">
+  <img src="data/rankup.png">
+</p>
 
 ### Motivation
 Military spouses often have to sacrifice long-term career goals in their support of their family and partners in the military. According to the Rand Corporation they are typically underemployed and underpaid much more than their civilian counterparts.  
@@ -12,12 +14,6 @@ Using NLP to curate personalized lists of jobs for military spouses that are ran
 
 ![RankUp](data/rankup_demo.gif)
 
-### Sponsors
-<p align="center">
-  <img src="data/techstars.png" width="200" title="TechStars">
-  <img src="data/patriotbootcamp.png" width="200" title="Patriot Boot Camp">
-</p>
-
 ### Links
 - Presentation Slides: http://bit.ly/2QwErWZ
 - GitHub: https://github.com/drunkONdata/RankUp
@@ -28,6 +24,13 @@ Using NLP to curate personalized lists of jobs for military spouses that are ran
 * Model hyperparameter improvements for better ranked matches
 * Add LinkedIn profile data for better comparisons
 * Use Machine Learning to decode military jargon for most similar civilian keywords
+
+### Sponsors
+<p align="center">
+  <img src="data/techstars.png" width="150">
+  <img src="data/usaa.png" width="105">
+  <img src="data/patriotbootcamp.png" width="270">
+</p>
 
 ### MIT License
 Copyright (c) 2018 RankUp
