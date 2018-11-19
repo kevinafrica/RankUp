@@ -6,7 +6,7 @@ Military spouses often have to sacrifice long-term career goals in their support
 ### Our Project
 Using NLP to curate personalized lists of jobs for military spouses that are ranked by analyzing their resume. Furthermore, we offer recommendations for education resources and a "path of least resistance" to pivot one's career and maximize salary gain. 
 
-**VetHacks Hackathon** - Seattle, WA - October 19-21, 2018
+**VetHacks Hackathon** - Seattle, WA - October 12-14, 2018
 - 1st Place Overall
 - Approached by TechStars for funding
 
@@ -14,8 +14,8 @@ Using NLP to curate personalized lists of jobs for military spouses that are ran
 
 ### Sponsors
 <p align="center">
-  <img src="data/patriotbootcamp.png" width="350" title="Patriot Boot Camp">
-  <img src="data/techstars.png" width="350" title="TechStars">
+  <img src="data/techstars.png" width="200" title="TechStars">
+  <img src="data/patriotbootcamp.png" width="200" title="Patriot Boot Camp">
 </p>
 
 ### Links
@@ -30,7 +30,7 @@ Using NLP to curate personalized lists of jobs for military spouses that are ran
 * Use Machine Learning to decode military jargon for most similar civilian keywords
 
 ### MIT License
-Copyright (c) 2018 Abhi Banerjee
+Copyright (c) 2018 RankUp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
