@@ -1,0 +1,142 @@
+
+.orange-round {
+    border-radius: 7em;
+    background-color: #FF5500;
+    font-family: "Avenir Next" !important;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 1px;
+    padding: .4em 2em;
+    margin: 1em auto;
+    outline:0px !important;
+    -webkit-appearance:none;
+}
+
+.gray-square {
+  width: 60vw;
+ 
+  margin: 1em auto;
+}
+/* @media only screen and (min-width:500px)
+{
+  .gray-square {
+    width: 350px;
+    height: 300px;
+  }
+} */
+@media only screen and (min-width: 750px) {
+  .gray-square {
+    width: 50vw;
+    height: 60vh;
+    position: absolute;
+    top: 150px;
+    right: 100px;
+    z-index: -1;
+
+  }
+
+  .intro-text {
+    max-width: 450px;
+}
+}
+p {
+  color:#697689;
+}
+strong {
+  color:#FF5500;
+}
+
+#rank-me-up {
+    background-color: #231B54;
+    max-width: 100vw !important;
+    margin-left: 0;
+    text-align: center;
+    padding: 3em;
+}
+#rank-me-up h2 {
+    background-color: #F7F0DE;
+    color: #231B54;
+    padding: .5em;
+}
+select {
+    background-color: #F7F0DE;
+    color:#FF5500;
+}
+a {
+    color:white;
+}
+.form-control {
+    background-color: #F7F0DE;
+    align-content: center;
+    text-align: right; 
+}
+input {
+    color:#FF5500;
+}
+.form-group {
+    text-align: right;
+    align-content: center;
+    color:#FF5500;
+}
+#fileSelect {
+    color:#FF5500;
+    background-color: #F7F0DE;
+    font-size: 22px;
+}
+.how-it-works {
+    margin: 6em;
+}
+
+h2 {
+    text-align: center;
+    color: #231B54;
+    margin-top: 30px;
+    clear: left
+   
+    }
+.image-left {
+    width: 500px;
+    height: 300px;
+    background-color: lightgray;
+    margin: 2em;
+    float: left;
+    }
+
+.how-it-works-text {
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin: 2em;
+    padding-top: 50px;
+    } 
+#im-ready {
+    position: absolute;
+    top: 2400px;
+    max-width: 100%;
+    margin-top: 30px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    margin-left:28%;
+
+}
+#im-ready-div {
+    width: 600px;
+    text-align: center;
+}
+#footer {
+    clear: left;
+    width: 100%;
+    position: absolute;
+    top: 2800px;
+    height: 500px;
+    background-color: #231B54;
+    color: white;
+    vertical-align: center;
+}
+#footer div {
+    margin: 10em 4em;
+}
+.p-heading {
+    font-weight: bold;
+}

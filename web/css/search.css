@@ -1,0 +1,65 @@
+body, .purple-box {
+  background-color: #231B54;
+}
+
+main {
+  padding-top:0;
+  background-color:#F7F0DE;
+}
+
+section {
+  margin:2em auto;
+}
+.purple-box {
+  color:white;
+  padding:2.6em 4em 1.5em 1.5em;
+  border:#FF5500 solid;
+  border-width: 0 10px 10px 0;
+  width:70%;
+}
+
+.filters {
+  padding:1em;
+  background-color:#F7F0DE;
+  width:20%;
+  font-size:.85em;
+}
+
+.purple-outside {
+  margin-left:0;
+  padding-left:0;
+}
+h1 {
+  color: white;
+  font-size:2.5em;
+}
+
+p {
+  font-size: .9em;
+}
+
+.filters > p,strong,a {
+  color:#231B54;
+}
+
+.purple-job-beam {
+  background-color: #231B54;
+  padding:.75em 0 .5em 3em;
+  border-radius: 30px 0 0 30px;
+  /* align-content: right; */
+
+}
+.purple-job-beam * {
+  color:white;
+}
+
+.fa-bookmark {
+  color:#FF5500;
+  font-size:2em;
+  text-align:center;
+  margin:1em;
+}
+
+.employment-type {
+  text-align:center;
+}

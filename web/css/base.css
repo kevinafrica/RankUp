@@ -1,0 +1,38 @@
+body {
+  background-color:#F7F0DE;
+}
+main {
+  /* min-height: 75rem; */
+  padding-top: 2rem;
+  margin: 4em;
+  font-family: "Avenir Next" 
+}
+nav {
+  border-bottom: solid gray 1px;
+  background-color: #231B54;
+}
+.navbar-nav > li{
+  margin-left:2.25em;
+  margin-right:2.25em;
+}
+
+.navbar-toggler{
+  color:white;
+}
+p {
+  font-size: 24px;
+}
+h1 {
+  font-family: "Avenir Next" !important;
+  font-size: 48px;
+  font-weight: bold;
+  color: #231B54;
+}
+@media only screen and (min-width: 750px) {
+  main {
+    padding-top: 4.5rem;
+  }
+  h1 {
+    font-size:64px;
+  }
+}
